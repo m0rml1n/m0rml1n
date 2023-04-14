@@ -24,3 +24,8 @@
 [![](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
 [![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-Express.js-f7f7f7?style=flat-square)](https://expressjs.com/)
+
+<div align="center">
+![GitHub Snake Light](https://github.com/Tsuk1ko/Tsuk1ko/raw/snack/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Tsuk1ko/Tsuk1ko/raw/snack/github-snake-dark.svg#gh-dark-mode-only)
+</div>
