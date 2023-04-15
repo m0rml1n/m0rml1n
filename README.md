@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://nai.si)
 [![](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:m0rm@qq.com)
 [![](https://img.shields.io/badge/QQ-faaf08?style=flat-square&logo=tencent-qq&logoColor=000000)](http://wpa.qq.com/msgrd?v=3&uin=10001&site=qq&menu=yes)
-![](https://img.shields.io/badge/lovesnad-07C160?style=flat-square&logo=wechat&logoColor=white)
+![](https://img.shields.io/badge/wechat-07C160?style=flat-square&logo=wechat&logoColor=white)
 
 
 
